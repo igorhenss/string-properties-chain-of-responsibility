@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eddafb15-3d7c-4b40-91c0-d327f6e4702e" name="Default Changelist" comment="" />
+    <list default="true" id="eddafb15-3d7c-4b40-91c0-d327f6e4702e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z7bnFdnZZqmvg6w9ASMLOw0vmu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -65,22 +71,22 @@
       <screen x="0" y="27" width="1366" height="694" />
     </state>
     <state x="260" y="27" width="496" height="694" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1366.694@0.27.1366.694" timestamp="1584194001993" />
-    <state width="980" height="159" key="GridCell.Tab.0.bottom" timestamp="1584197349169">
+    <state width="980" height="159" key="GridCell.Tab.0.bottom" timestamp="1584197782198">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="980" height="159" key="GridCell.Tab.0.bottom/0.27.1366.694@0.27.1366.694" timestamp="1584197349169" />
-    <state width="980" height="159" key="GridCell.Tab.0.center" timestamp="1584197349168">
+    <state width="980" height="159" key="GridCell.Tab.0.bottom/0.27.1366.694@0.27.1366.694" timestamp="1584197782198" />
+    <state width="980" height="159" key="GridCell.Tab.0.center" timestamp="1584197782191">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="980" height="159" key="GridCell.Tab.0.center/0.27.1366.694@0.27.1366.694" timestamp="1584197349168" />
-    <state width="980" height="159" key="GridCell.Tab.0.left" timestamp="1584197349167">
+    <state width="980" height="159" key="GridCell.Tab.0.center/0.27.1366.694@0.27.1366.694" timestamp="1584197782191" />
+    <state width="980" height="159" key="GridCell.Tab.0.left" timestamp="1584197782190">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="980" height="159" key="GridCell.Tab.0.left/0.27.1366.694@0.27.1366.694" timestamp="1584197349167" />
-    <state width="980" height="159" key="GridCell.Tab.0.right" timestamp="1584197349168">
+    <state width="980" height="159" key="GridCell.Tab.0.left/0.27.1366.694@0.27.1366.694" timestamp="1584197782190" />
+    <state width="980" height="159" key="GridCell.Tab.0.right" timestamp="1584197782197">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="980" height="159" key="GridCell.Tab.0.right/0.27.1366.694@0.27.1366.694" timestamp="1584197349168" />
+    <state width="980" height="159" key="GridCell.Tab.0.right/0.27.1366.694@0.27.1366.694" timestamp="1584197782197" />
     <state x="158" y="84" width="710" height="578" key="find.popup" timestamp="1584193592705">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
